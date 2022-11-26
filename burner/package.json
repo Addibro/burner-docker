@@ -1,0 +1,12 @@
+{
+  "name": "burner",
+  "version": "1.0.0",
+  "description": "The burner logic to be executed and stopped when water temperatur hits a specific number",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo Started burner",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Alme",
+  "license": "ISC"
+}
